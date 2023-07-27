@@ -1,0 +1,15 @@
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\bin\Debug\net6.0\SeparadordeTexto.exe
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\bin\Debug\net6.0\SeparadordeTexto.deps.json
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\bin\Debug\net6.0\SeparadordeTexto.runtimeconfig.json
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\bin\Debug\net6.0\SeparadordeTexto.dll
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\bin\Debug\net6.0\SeparadordeTexto.pdb
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\SeparadordeTexto.csproj.AssemblyReference.cache
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\SeparadordeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\SeparadordeTexto.AssemblyInfoInputs.cache
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\SeparadordeTexto.AssemblyInfo.cs
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\SeparadordeTexto.csproj.CoreCompileInputs.cache
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\SeparadordeTexto.dll
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\refint\SeparadordeTexto.dll
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\SeparadordeTexto.pdb
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\SeparadordeTexto.genruntimeconfig.cache
+C:\Users\PC-89091\Documents\C# projects\Separador_de_texto\SeparadordeTexto\obj\Debug\net6.0\ref\SeparadordeTexto.dll
